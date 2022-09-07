@@ -1,5 +1,4 @@
-Aleksandr Nikolaev
-===============
+# Aleksandr Nikolaev
 
 ### Contacts:
 
@@ -8,21 +7,23 @@ Aleksandr Nikolaev
 -   **Telegram:** - [G_GrizzlyK](https://t.me/G_GrizzlyK)
 -   **Discord:** - G_GrizzlyK#4037
 
-***
-### Goal
-My goal is to learn programming in a disciplined way every day. So far, I'm learning on Udemy, but that's not enough. I also need practice, and that's why I'm here. 
+---
 
-***
+### Goal
+
+My goal is to learn programming in a disciplined way every day. So far, I'm learning on Udemy, but that's not enough. I also need practice, and that's why I'm here.
+
+---
 
 ### Skills
 
-- [HTML](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
-- [CSS (SASS/SCSS, BEM)](https://www.udemy.com/course/advanced-css-and-sass/)
-- [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
-- [Node.js (in progress...)](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
-- [Basics of algorithms (in progress...)](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+-   [HTML](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+-   [CSS (SASS/SCSS, BEM)](https://www.udemy.com/course/advanced-css-and-sass/)
+-   [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
+-   [Node.js (in progress...)](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+-   [Basics of algorithms (in progress...)](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
-- [MySQL basics](https://stepik.org/cert/1008144)
+-   [MySQL basics](https://stepik.org/cert/1008144)
 
 ### Code Example
 
@@ -47,4 +48,3 @@ function BinarySearch(sortArr, val) {
 
 Russian - Native  
 English - A2 (in progress...)
-
