@@ -19,8 +19,8 @@ My goal is to learn programming in a disciplined way every day. So far, I'm lear
 - [HTML](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 - [CSS (SASS/SCSS, BEM)](https://www.udemy.com/course/advanced-css-and-sass/)
 - [JavaScript](https://www.udemy.com/course/the-complete-javascript-course/)
-- [Node.js](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) (in progress...)
-- [Basics of algorithms](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/) (in progress...)
+- [Node.js (in progress...)](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
+- [Basics of algorithms (in progress...)](https://www.udemy.com/course/master-the-coding-interview-data-structures-algorithms/)
 
 - [MySQL basics](https://stepik.org/cert/1008144)
 
